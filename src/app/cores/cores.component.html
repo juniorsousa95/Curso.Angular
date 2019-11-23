@@ -1,0 +1,9 @@
+<div>
+    <h3>Lista de Cores</h3>
+    <ul>
+        <app-cor-atual *ngFor="let cor of cores" [cor]="cor" (changeColor)="changeCor($event)"></app-cor-atual>
+    </ul>
+
+    
+
+</div>
