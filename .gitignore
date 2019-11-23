@@ -45,7 +45,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-=======
+
 # Logs
 logs
 *.log
@@ -107,4 +107,3 @@ typings/
 
 # next.js build output
 .next
-
